@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rtenzyme.github.io/about/static/css/main.2f9e5f41.css",
+    "main.js": "/rtenzyme.github.io/about/static/js/main.123d407c.js",
+    "index.html": "/rtenzyme.github.io/about/index.html",
+    "main.2f9e5f41.css.map": "/rtenzyme.github.io/about/static/css/main.2f9e5f41.css.map",
+    "main.123d407c.js.map": "/rtenzyme.github.io/about/static/js/main.123d407c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f9e5f41.css",
+    "static/js/main.123d407c.js"
+  ]
+}
